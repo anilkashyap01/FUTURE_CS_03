@@ -64,6 +64,6 @@ Passive inspection of the HTTP Response Headers revealed several positive securi
   - `Screenshot From 2026-08-30 16-45-52.png` (200 OK Unauthenticated Data Exposure)
 
 
-Thank you
+Thank you.
 
 *This repository serves as the official submission for Task 3 of the Future Interns Cyber Security Program.*
