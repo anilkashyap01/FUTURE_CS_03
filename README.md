@@ -1,7 +1,6 @@
 # 🛡️ API Security Risk Analysis Report
 
-**Target API:** `https://reqres.in` (ReqRes API Testing Platform)  
-**Author:** Anil Kashyap  
+**Target API:** `https://reqres.in` (ReqRes API Testing Platform)
 **Assessment Type:** Read-Only API Security Risk Analysis  
 **Tools Utilized:** Postman (HTTP Client), Browser DevTools  
 **Date:** August 30, 2026
@@ -62,8 +61,3 @@ Passive inspection of the HTTP Response Headers revealed several positive securi
 - `/screenshots/` - Contains proof-of-concept visual evidence from Postman:
   - `Screenshot From 2026-08-30 16-32-26.png` (429 Rate Limit Verification)
   - `Screenshot From 2026-08-30 16-45-52.png` (200 OK Unauthenticated Data Exposure)
-
-
-Thank you.
-
-*This repository serves as the official submission for Task 3 of the Future Interns Cyber Security Program.*
